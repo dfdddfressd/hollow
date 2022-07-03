@@ -1,0 +1,21 @@
+html{
+	background-color: darkslategray;
+	text-align: center;
+	color: white;
+}
+hr {
+  border: 5px double gray;
+  width: 90%;
+}
+a:link{
+	color: white;
+}
+a:visited{
+	color:white;
+}
+a:hover{
+	color: red;
+}
+a:active{
+	color: pink;
+}
