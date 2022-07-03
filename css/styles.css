@@ -1,17 +1,17 @@
 html{
-	background-color: darkslategray;
+	background-color: red;
 	text-align: center;
-	color: white;
+	color: Black;
 }
 hr {
   border: 5px double gray;
   width: 90%;
 }
 a:link{
-	color: white;
+	color: black;
 }
 a:visited{
-	color:white;
+	color:black;
 }
 a:hover{
 	color: red;
@@ -22,7 +22,7 @@ a:active{
 #welcome{
   top: 20;
   line-height: 1.6;
-  background: #F5F5F5;
+  background: #FF7F50;
   min-height: 55vh;
   padding-top: 45vh;
   text-align:
