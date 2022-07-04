@@ -1,5 +1,5 @@
 html{
-	background-color: red;
+	background-color: white;
 	text-align: center;
 	color: Black;
 }
@@ -21,10 +21,10 @@ a:active{
 }
 #welcome{
   top: 15;
-  line-height: 1;
-  background: #FF7F50;
-  min-height: 45px;
-  padding-top: 45px;
+  line-height: 2;
+  background: #F0F8FF;
+  min-height: 1000px;
+  padding-top: 1000px;
   text-align: center;
 	
 }
