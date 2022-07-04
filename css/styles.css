@@ -28,24 +28,4 @@ a:active{
   text-align: center;
 	
 }
-nav ul {
-  position: fixed;
-  text-align: right;
-  width: 100%;
-  background-color: #Fff;
-  font-family: "comfortaa",sans-serif; 
-  font-size: 1.2em; 
-}
 
-nav ul li {
-  display: inline-block;
-  margin: 30px; 
-}
-
-nav ul li a {
-  color: #000;
-  text-decoration: none;  
-}
-nav ul li a:hover {
-  color: #ababab;
-}
