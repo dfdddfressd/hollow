@@ -1,0 +1,113 @@
+html{
+	background-color: Azure;
+	font-family: 'Finlandica', sans-serif;
+	text-align: center;
+}
+h1{
+	font-size: 50px;
+	margin-left: 25px;
+	margin-right: 25px;
+}
+h2{
+	font-family: 'The Nautigal', cursive;
+	font-size: 50px;
+	padding: 25px;
+}	
+h3 {
+  font-size: 30px;
+}
+
+/*link stuff*/
+
+a:link{
+	color: black;
+	text-decoration: none;
+}
+a:visited{
+	color:black;
+	text-decoration: none;
+}
+a:hover{
+	color: grey;
+	text-decoration: none;
+}
+a:active{
+	color: red;
+	text-decoration: none;
+}
+
+/*navigation box*/
+
+nav ul{  
+  position: fixed;
+  text-align: left;
+  width: 100%;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 10px;
+  font-size: 20px; 
+}
+
+nav ul li{
+  display: inline-block;
+  margin: 30px 100px 30px 5px;
+}
+
+/*home section*/
+
+#home-section{
+	border: 5px solid lavender;
+	border-radius: 20px;
+	line-height: 1;
+	background: lavender;
+	padding-bottom: 175px;
+	padding-top: 175px;
+	text-align: center;
+}
+.zangetsu-pic{
+	width: 30%;
+	border: 20px double white;
+	border-radius: 10px;	
+}
+
+/*things*/
+
+.things {
+  margin-top: 50px;
+  font-weight: normal
+  padding-top: 60px;
+  margin-top: -60px;
+}
+
+.things-top{
+  margin-top: 12px;
+  font-weight: normal;
+  border: 20px solid lavender;
+  border-radius: 5px;
+  background-color: gainsboro;
+  padding: 20px;
+  margin: 70px;
+}
+
+.blog{
+	background-color: dimgrey;
+	display: inline-block;
+	border: 10px solid dimgrey;
+	border-radius: 6px;
+	height: 200px;
+	width: 250px;
+	margin: 20px 100px 100px 100px; 
+}
+.blog-picture{
+	height: 100%;
+	width: 100%;
+}
+.blog-name{
+	font-weight: bold;
+	border: 10px solid dimgrey;
+	padding-top: 20px;
+	font-size: 20px;
+	padding-bottom: 20px;
+	background-color: gainsboro;
+}
+
